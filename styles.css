@@ -1,0 +1,15 @@
+p {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+
+div {
+    width: 150px;
+    display: flex;
+    align-self: center;
+}
+
+html {
+    height: 75px;
+}
